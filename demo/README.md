@@ -10,7 +10,9 @@ Pour une démo plus poussée sur Limenius (formulaires, utilisation de Redux, et
 
 `cd demo`
 
-Sf : `bin/console server:run`
+`npm install` (ou `yarn install`)
+
+`bin/console server:run`
 
 Build React (using webpack):
 - client side : `webpack --config webpack.config.js`
